@@ -1,1 +1,6 @@
                                         CREATING VIRTUAL SERVER USING EC2 IN AWS
+Virtual Sever
+-------------
+
+A virtual server is a software-based server that operates on a physical server, enabling multiple virtual servers to share the same hardware
+while running independently with their own operating systems and applications. This approach maximizes resource use and flexibility.
