@@ -11,3 +11,7 @@ EC2
 Amazon EC2 (Elastic Compute Cloud) is a scalable cloud computing service offered by Amazon Web Services (AWS). It allows users to launch and
 manage virtual servers, known as INSTANCES, on-demand. EC2 provides flexible computing capacity, enabling users to scale resources up or down 
 based on their needs, and only pay for what they use.
+
+Step 1 : Sign Up into AWS Account
+---------------------------------
+
