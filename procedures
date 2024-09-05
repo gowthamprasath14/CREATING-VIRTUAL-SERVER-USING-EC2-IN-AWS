@@ -16,9 +16,6 @@ Step 1 : Sign Up into AWS Account
 ---------------------------------
 Sign Up into AWS Account Search for EC2 services and you will reach the EC2 dashboard and click on Instances on the left to create an Instance.
 
-![Alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/0*t_ygX4DDLdlVA9o3.png)
-
-
 Step 2 : Creating an instance
 -----------------------------
 Click on Launch Instances to create an Instance
