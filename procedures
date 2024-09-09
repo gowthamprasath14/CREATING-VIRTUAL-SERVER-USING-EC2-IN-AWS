@@ -20,3 +20,6 @@ Step 2 : Creating an instance
 -----------------------------
 Click on Launch Instances to create an Instance
 you will be directed to Launch an Instance . create Name and Tag(optional) for your Instance.
+
+Step 3 : Choosing AMI ( Amazon Machine Image )
+----------------------------------------------
