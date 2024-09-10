@@ -7,7 +7,6 @@ while running independently with their own operating systems and applications. T
 
 EC2
 ---
-
 Amazon EC2 (Elastic Compute Cloud) is a scalable cloud computing service offered by Amazon Web Services (AWS). It allows users to launch and
 manage virtual servers, known as INSTANCES, on-demand. EC2 provides flexible computing capacity, enabling users to scale resources up or down 
 based on their needs, and only pay for what they use.
@@ -23,3 +22,4 @@ you will be directed to Launch an Instance . create Name and Tag(optional) for y
 
 Step 3 : Choosing AMI ( Amazon Machine Image )
 ----------------------------------------------
+An AMI is a template that contains the software configuration (operating system, application server, and applications) required to launch your instance.
