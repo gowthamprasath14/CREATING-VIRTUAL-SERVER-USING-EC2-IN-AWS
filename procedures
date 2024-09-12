@@ -23,3 +23,4 @@ you will be directed to Launch an Instance . create Name and Tag(optional) for y
 Step 3 : Choosing AMI ( Amazon Machine Image )
 ----------------------------------------------
 An AMI is a template that contains the software configuration (operating system, application server, and applications) required to launch your instance.
+We will be using Ubuntu for creating Instance in this module
