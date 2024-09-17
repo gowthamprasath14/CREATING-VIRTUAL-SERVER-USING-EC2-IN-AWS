@@ -35,3 +35,4 @@ t2.micro belongs to t2 family which has Free tier eligible with compute power of
 Instance in this module
 
 Step 4 : Creating key pair ( login )
+Key Pair : A key pair is used to securely connect to your instance.
