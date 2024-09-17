@@ -33,3 +33,5 @@ Select an instance type based on the requirements of the application or software
 
 t2.micro belongs to t2 family which has Free tier eligible with compute power of 1 vCPU and Memory of 1 GiB. We will be using t2.micro for creating
 Instance in this module
+
+Step 4 : Creating key pair ( login )
