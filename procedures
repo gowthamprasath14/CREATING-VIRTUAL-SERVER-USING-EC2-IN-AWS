@@ -36,3 +36,6 @@ Instance in this module
 
 Step 4 : Creating key pair ( login )
 Key Pair : A key pair is used to securely connect to your instance.
+A key pair, consisting of a public key and a private key, is a set of security credentials that you use to prove your identity when connecting to an 
+Amazon EC2 instance. For Linux instances, the private key allows you to securely SSH into your instance. For Windows instances, the private key is 
+required to decrypt the administrator password, which you then use to connect to your instance.
