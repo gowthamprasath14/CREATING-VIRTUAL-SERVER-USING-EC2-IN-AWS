@@ -43,4 +43,6 @@ Amazon EC2 instance. For Linux instances, the private key allows you to securely
 required to decrypt the administrator password, which you then use to connect to your instance.
 
 Amazon EC2 stores the public key on your instance, and you store the private key .It’s important that you store your private key in a secure place 
-because anyone who possesses your private key can connect to your instances that use the key pair.
+because anyone who possesses your private key can connect to your instances that use the key pair
+
+Click on Create new key pair if you dont have a key pair.
