@@ -52,3 +52,5 @@ Enter your key pair Name , select key pair type ( mostly RSA ) and choose privat
 Putty : if you use putty to run Instance download the private file in .ppk format
 
 OpenSSH : if you use OpenSSH to run Instance download the private file in .pem format
+
+click Create key pair to create your new key pair.
