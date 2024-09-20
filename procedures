@@ -48,3 +48,5 @@ because anyone who possesses your private key can connect to your instances that
 Click on Create new key pair if you dont have a key pair.
 
 Enter your key pair Name , select key pair type ( mostly RSA ) and choose private key pair file format
+
+Putty : if you use putty to run Instance download the private file in .ppk format
