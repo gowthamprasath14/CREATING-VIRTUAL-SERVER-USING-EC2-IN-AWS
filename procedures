@@ -62,3 +62,4 @@ You select a network and subnet to place your instance within, and you can choos
 A security group, acting as a firewall, is set up to manage the traffic that can reach your instance. Typically, SSH access is allowed for remote 
 management, but it’s important to limit this access to specific IP addresses for security purposes.
 
+Here new security group that created is called ‘launch-wizard-1’ with rules to allow SSH from Anywhere
