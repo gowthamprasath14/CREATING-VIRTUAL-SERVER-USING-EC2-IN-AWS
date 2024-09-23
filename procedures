@@ -54,3 +54,5 @@ Putty : if you use putty to run Instance download the private file in .ppk forma
 OpenSSH : if you use OpenSSH to run Instance download the private file in .pem format
 
 click Create key pair to create your new key pair.
+
+Step 5 : Network Settings
