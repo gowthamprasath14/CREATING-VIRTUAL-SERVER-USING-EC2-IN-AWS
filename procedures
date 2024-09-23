@@ -56,3 +56,9 @@ OpenSSH : if you use OpenSSH to run Instance download the private file in .pem f
 click Create key pair to create your new key pair.
 
 Step 5 : Network Settings
+
+When launching an EC2 instance, configuring the network settings is key to controlling how your instance connects to the internet and other resources.
+You select a network and subnet to place your instance within, and you can choose to auto-assign a public IP address if you need internet access. 
+A security group, acting as a firewall, is set up to manage the traffic that can reach your instance. Typically, SSH access is allowed for remote 
+management, but it’s important to limit this access to specific IP addresses for security purposes.
+
