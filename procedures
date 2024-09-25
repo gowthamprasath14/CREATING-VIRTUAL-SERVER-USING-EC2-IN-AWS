@@ -66,3 +66,5 @@ Here new security group that created is called ‘launch-wizard-1’ with rules 
 
 ( Note : Due to the complexity and importance of configuring network settings, we’ll cover this topic in greater detail in our next blog post. 
 For now, we’ve created an instant security group without any specific configurations to get you up and running quickly. )
+
+Step 6 : Configure Storage
