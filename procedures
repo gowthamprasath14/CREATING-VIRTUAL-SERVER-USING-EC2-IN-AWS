@@ -80,3 +80,6 @@ After setting all things check the Summary and click on Launch Instance to Launc
 You can see your newly created Instance in the Instance page
 On selecting the Instance you can refer its details.
 
+Step 8 : Connecting to the Instance
+-----------------------------------
+Click on the connect button in the top near to Instance state to connect to your Instance.
