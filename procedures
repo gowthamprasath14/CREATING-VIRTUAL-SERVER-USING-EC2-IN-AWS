@@ -88,3 +88,5 @@ On clicking connet the Connect to Instance page opens where you can see EC2 Inst
 EC2 Instance Connect
 --------------------
 Select EC2 Instance Connect and Click on connect
+After connecting browser-based terminal window will open. This terminal provides direct command-line access to the instance . 
+In this method you can directly access your Instance using Amazon management console no need of .pem file for login.
