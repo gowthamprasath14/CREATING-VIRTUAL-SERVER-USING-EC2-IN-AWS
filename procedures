@@ -84,3 +84,7 @@ Step 8 : Connecting to the Instance
 -----------------------------------
 Click on the connect button in the top near to Instance state to connect to your Instance.
 On clicking connet the Connect to Instance page opens where you can see EC2 Instance Connect , Session Manager, SSH client, EC2 serial console
+
+EC2 Instance Connect
+--------------------
+Select EC2 Instance Connect and Click on connect
