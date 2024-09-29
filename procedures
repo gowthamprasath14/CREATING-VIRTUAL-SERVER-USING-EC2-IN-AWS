@@ -99,3 +99,6 @@ on your local machine.
 To connect to SSH choose SSH connect in connect to Instance and copy the command in the Example ssh -i “newKeyPair.pem” 
 ubuntu@ec2–54–242–211–227.compute-1.amazonaws.com . here replace “newKeyPair.pem” with your .pem file location , 
 which was downloaded in your local machine while creating key pair.
+
+In the above command ssh -i represents SSH . “newKeyPair.pem” represents .pem file, ubuntu@ represents username of your AMI ,
+ec2–54–242–211–227 represents your Instance public IP address , compute-1.amazonaws.com represents AWS region and domain.
