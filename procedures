@@ -93,3 +93,5 @@ In this method you can directly access your Instance using Amazon management con
 
 SSH Connect
 -----------
+SSH (Secure Shell) Connect is the traditional method of connecting to an EC2 instance. It requires an SSH client and a private key file (.pem) 
+on your local machine.
