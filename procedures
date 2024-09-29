@@ -95,3 +95,7 @@ SSH Connect
 -----------
 SSH (Secure Shell) Connect is the traditional method of connecting to an EC2 instance. It requires an SSH client and a private key file (.pem) 
 on your local machine.
+
+To connect to SSH choose SSH connect in connect to Instance and copy the command in the Example ssh -i “newKeyPair.pem” 
+ubuntu@ec2–54–242–211–227.compute-1.amazonaws.com . here replace “newKeyPair.pem” with your .pem file location , 
+which was downloaded in your local machine while creating key pair.
