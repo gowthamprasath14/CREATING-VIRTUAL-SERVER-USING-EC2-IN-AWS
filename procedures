@@ -102,3 +102,4 @@ which was downloaded in your local machine while creating key pair.
 
 In the above command ssh -i represents SSH . “newKeyPair.pem” represents .pem file, ubuntu@ represents username of your AMI ,
 ec2–54–242–211–227 represents your Instance public IP address , compute-1.amazonaws.com represents AWS region and domain.
+run this command in your command prompt
